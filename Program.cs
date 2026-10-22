@@ -4,6 +4,8 @@
 }
 
 SayHello();
+GreetWhite();
+GreetBlack();
 
 static void GreetWhite()
 {
